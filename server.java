@@ -1,3 +1,3 @@
 /*
- * server class for game
+ * Server class for game
  */

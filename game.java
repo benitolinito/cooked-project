@@ -1,4 +1,4 @@
 /*
- * Game class
+ * Game class for logic
  *
  */

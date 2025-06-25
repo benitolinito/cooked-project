@@ -1,5 +1,5 @@
 /*
- * arrow/note class for game
+ * Note class for game
  */
 
 

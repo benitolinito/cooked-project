@@ -1,3 +1,3 @@
 /*
- * track class for game
+ * Track class for game
  */
