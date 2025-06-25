@@ -1,0 +1,3 @@
+/*
+ * server class for game
+ */
